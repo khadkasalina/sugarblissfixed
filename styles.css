@@ -571,8 +571,6 @@ nav {
     padding: 10px;
     background-color: #4caf50;
     color: #fff;
-  }
-  
 /* Resetting some default styles */
 /* ... (unchanged) ... */
 
@@ -601,8 +599,8 @@ marquee {
 
 /* Hero section */
 .hero {
-  background-color: rgba(0, 0, 0, 0.6); /* Darker semi-transparent background */
-  color: white;
+  background-color: rgba(255, 255, 255, 0.8); /* Lighter semi-transparent background */
+  color: #333; /* Darker text color */
   font-weight: bold;
   position: absolute;
   top: 50%;
@@ -642,13 +640,14 @@ marquee {
   line-height: 40px;
   text-align: center;
   font-size: 24px;
-  color: #fff;
-  background-color: #ff69b4; /* Pink background */
+  color: #333; /* Darker text color */
+  background-color: #c04d7e; /* Darker pink background */
   border-radius: 50%;
   text-decoration: none;
 }
 
 .scroll-to-top a:hover {
-  background-color: #ff8dd1; /* Lighter pink on hover */
+  background-color: #993d6e; /* Darker pink on hover */
 }
+
 
