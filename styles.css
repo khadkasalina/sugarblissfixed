@@ -72,7 +72,7 @@ nav {
   }
   
   .nav-links a:hover {
-    color: #ff69b4; 
+    color: #bd005f; 
   }
   
   
@@ -145,7 +145,7 @@ nav {
   }
   
   .speciality h3 {
-    color: #ff69b4; /* Pink color */
+    color: #bd005f; /* Pink color */
     margin-bottom: 10px;
   }
   
@@ -156,7 +156,7 @@ nav {
   .read-more {
     display: inline-block;
     padding: 8px 20px;
-    background-color: #ff69b4;
+    background-color: #bd005f;
     color: #fff;
     text-decoration: none;
     border-radius: 5px;
@@ -218,7 +218,7 @@ nav {
     top: 50%;
     transform: translateY(-50%);
     font-size: 30px;
-    color: #ff69b4;
+    color: #bd005f;
     cursor: pointer;
     z-index: 1;
     padding: 0 10px; /* Adjust padding for arrows */
@@ -238,7 +238,7 @@ nav {
   /* Footer styling */
   /* Styles for the footer */
 .footer {
-    background: linear-gradient(to right, #ff69b4, #90f3f9);
+    background: linear-gradient(to right, #bd005f, #90f3f9);
     color: #fff;
     padding: 30px 0;
     text-align: center;
@@ -276,7 +276,7 @@ nav {
   
   .star-rating {
     font-size: 20px;
-    color: #ff69b4;
+    color: #bd005f;
   }
 /* Styles for the scroll-to-top button */
  .scroll-to-top {
@@ -295,7 +295,7 @@ nav {
     text-align: center;
     font-size: 24px;
     color: #fff;
-    background-color: #ff69b4;
+    background-color: #bd005f;
     border-radius: 50%;
     text-decoration: none;
   }
@@ -571,83 +571,6 @@ nav {
     padding: 10px;
     background-color: #4caf50;
     color: #fff;
-/* Resetting some default styles */
-/* ... (unchanged) ... */
-
-/* Body and general styling */
-body {
-  font-family: Arial, sans-serif;
-  background-color: #f9f9f9; /* Light pink shade */
-  color: #333; /* Dark text color */
-}
-
-/* Header styling */
-/* ... (unchanged) ... */
-
-/* Marquee styling */
-marquee {
-  background: linear-gradient(to right, #ff6eaf, #90f3f9); /* Gradient pink background */
-  color: #fff; /* Text color */
-  padding: 10px;
-  font-size: 16px;
-  font-weight: bold;
-  width: 100%; /* To occupy the full width */
-}
-
-/* Navigation styling */
-/* ... (unchanged) ... */
-
-/* Hero section */
-.hero {
-  background-color: rgba(255, 255, 255, 0.8); /* Lighter semi-transparent background */
-  color: #333; /* Darker text color */
-  font-weight: bold;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  z-index: 2;
-  width: 100%;
-  height: 100%;
-  padding: 111px;
-  text-align: center;
-}
-
-/* Main sections */
-/* ... (unchanged) ... */
-
-/* Specialities section */
-/* ... (unchanged) ... */
-
-/* Reviews section */
-/* ... (unchanged) ... */
-
-/* Footer styling */
-.footer {
-  background: linear-gradient(to right, #ff69b4, #90f3f9);
-  color: #fff;
-  padding: 30px 0;
-  text-align: center;
-}
-
-/* ... (unchanged) ... */
-
-/* Scroll-to-top button */
-.scroll-to-top a {
-  display: block;
-  width: 40px;
-  height: 40px;
-  line-height: 40px;
-  text-align: center;
-  font-size: 24px;
-  color: #333; /* Darker text color */
-  background-color: #c04d7e; /* Darker pink background */
-  border-radius: 50%;
-  text-decoration: none;
-}
-
-.scroll-to-top a:hover {
-  background-color: #993d6e; /* Darker pink on hover */
-}
-
-
+  }
+  
+  
