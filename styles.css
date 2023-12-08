@@ -601,7 +601,7 @@ marquee {
 
 /* Hero section */
 .hero {
-  background-color: rgba(0, 0, 0, 0.22); /* Black w/opacity/see-through */
+  background-color: rgba(0, 0, 0, 0.6); /* Darker semi-transparent background */
   color: white;
   font-weight: bold;
   position: absolute;
@@ -651,3 +651,4 @@ marquee {
 .scroll-to-top a:hover {
   background-color: #ff8dd1; /* Lighter pink on hover */
 }
+
