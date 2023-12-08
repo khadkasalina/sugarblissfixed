@@ -573,4 +573,20 @@ nav {
     color: #fff;
   }
   
-  
+  /* Define CSS keyframes for scrolling animation */
+@keyframes scrollLeft {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+/* Apply the animation to the scrolling text */
+.opening-hours .details {
+  display: inline-block;
+  white-space: nowrap;
+  overflow: hidden;
+  animation: scrollLeft 20s linear infinite; /* Adjust animation duration and timing as needed */
+}
