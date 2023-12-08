@@ -164,7 +164,7 @@ nav {
   }
   
   .read-more:hover {
-    background-color: #ff8dd1; /* Lighter pink on hover */
+    background-color: #bd005f; /* Lighter pink on hover */
   }
   
   /* Reviews section */
@@ -224,7 +224,7 @@ nav {
     padding: 0 10px; /* Adjust padding for arrows */
   }
   .arrow:hover{
-    color: #ff8dd1;
+    color: #bd005f;
   } 
   
   .left-arrow {
@@ -301,7 +301,7 @@ nav {
   }
   
   .scroll-to-top a:hover {
-    background-color: #ff8dd1;
+    background-color: #bd005f;
   }
   
   /* Responsive styles using media queries */
